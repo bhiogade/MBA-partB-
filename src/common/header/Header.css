@@ -12,6 +12,15 @@
     height: 35px;
 }
 
+.login-button {
+    float: right;
+}
+
+.booknow-button {
+    float: right;
+    margin-right: 20px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
     .App-logo {
         animation: App-logo-spin infinite 8s linear;
