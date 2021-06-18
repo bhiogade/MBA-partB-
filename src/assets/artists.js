@@ -89,5 +89,4 @@ const artists = [
         "wiki_url": "https://en.wikipedia.org/wiki/Kay_Kay_Menon"
     }
 ];
-
 export default artists;
